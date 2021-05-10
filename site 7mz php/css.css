@@ -1,0 +1,17 @@
+
+body{
+	background-image: url(https://i.ytimg.com/vi/NNzgK7PT3fo/maxresdefault.jpg);
+	margin: 0;
+	background-size: 100%;
+}
+.bloco{
+	background-color: #00FF7F;
+	margin: 8px 450px;
+	height: 500px;
+	border: solid black 5px;
+	color: black;
+	font-size: 17px;
+	font-style: italic;
+	font-family: helvetica;
+	padding: 0 3.5px;
+}

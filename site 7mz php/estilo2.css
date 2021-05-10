@@ -1,0 +1,66 @@
+body{
+	
+	font-family: "Montserrat";
+}
+html{
+	background-image: url(https://i.ytimg.com/vi/NNzgK7PT3fo/maxresdefault.jpg);
+	background-size: 100% 100%;
+
+}
+h1{
+	text-decoration: underline;
+}
+
+p{
+	font-size: 20px;
+	color: white;
+}
+label{
+	margin-right: 460px;
+	font-size: 20px;
+	color: white;
+}
+#amigo{
+	margin-right: 460px;
+	font-size: 20px;
+	color: white;
+	margin-left: 72px;
+}
+div{
+	text-align: center;
+	margin: 100px 100px;
+}
+div input[type="text"],[type="email"],[type="password"]{
+	width: 650px;
+	height: 35px;
+}
+div input[type="submit"],input[type="reset"], button{
+	width: 150px;
+	height: 35px;
+	color: white;
+	background-color: black;
+	margin-left: 500px;
+	cursor: pointer;
+}
+.box{
+	margin: 0;
+	margin-right: 0px;
+	width: 200px;
+	padding-left: 200px;
+	font-size: 20px;
+}
+.radio{
+	margin: 0;
+	margin-right: 0px;
+	width: 200px;
+	padding-left: 180px;
+	font-size: 20px;
+}
+textarea{
+	margin: 0px;
+    width: 655px;
+    height: 74px;
+   	border: 5px solid black;
+
+}
+
